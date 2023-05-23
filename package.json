@@ -1,0 +1,22 @@
+{
+  "name": "js-battleship-game",
+  "version": "1.0.0",
+  "description": "A classic battle ship game created using javascript  as a part of www.odinproject.com course",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudhintc/js-battleship-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudhintc/js-battleship-game/issues"
+  },
+  "homepage": "https://github.com/Sudhintc/js-battleship-game#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
